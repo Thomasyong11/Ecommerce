@@ -1,7 +1,8 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://www.dailymailgh.com/wp-content/uploads/2020/04/Serwaa-Amihere.jpeg",
+    //img: "https://www.dailymailgh.com/wp-content/uploads/2020/04/Serwaa-Amihere.jpeg",
+    img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     title: "SUMMER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
